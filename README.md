@@ -1,4 +1,4 @@
-# Fake News Detection using NLP & Machine Learning
+# Fake News Detection
 
 ## Project Summary
 This project addresses fake news detection as a binary text classification problem using classical Natural Language Processing (NLP) techniques and supervised machine learning models. 
